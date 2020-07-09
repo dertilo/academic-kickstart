@@ -17,28 +17,41 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Assistent"
+  company = "Technical University of Berlin"
+  company_url = "https://www.tu.berlin/"
+  location = "Berlin"
+  date_start = "2019-02-01"
+  date_end = "2020-08-31"
+  description = """research on Dilogue Systems, NLP, Reinforcement Learning"""
+
+[[experience]]
+  title = "Data Scientist & NLP Specialist"
+  company = "Implisense GmbH"
+  company_url = "https://implisense.com/en"
+  location = "Berlin"
+  date_start = "2016-12-01"
+  date_end = "2018-09-30"
+  description = """hierarchical multilabel text classification, named entity recognition, nonlinear regression"""
+
+[[experience]]
+  title = "Research Assistent"
+  company = "INSTITUTE OF BIOMEDICAL ENGINEERING TU Dresden"
+  company_url = "https://tu-dresden.de/ing/elektrotechnik/ibmt"
+  location = "Dresden"
+  date_start = "2016-07-01"
+  date_end = "2016-11-30"
+  description = """deep learning for bio-medical pattern recognition and classification; recommender systems for clinical decision support systems"""
+
+[[experience]]
+  title = "Electrical Engineering (M.Sc.)"
+  company = "Technical University of Dresden"
+  company_url = "https://tu-dresden.de/ing/elektrotechnik"
+  location = "Dresden"
+  date_start = "2011-10-01"
+  date_end = "2016-07-01"
+  description = """mainly focused on bio-signal processing"""
 
 +++
