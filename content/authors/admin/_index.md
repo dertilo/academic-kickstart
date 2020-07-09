@@ -23,19 +23,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
+- Text Mining
+- Transformers
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Electrical Engineering (M.Sc.)
+    institution: Technical University of Dresden
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,8 +62,22 @@ user_groups:
 - Visitors
 ---
 
-Some text about me here
+Hi, I'm Tilo! I’m a machine learning and NLP specialist stuck somewhere between research and engineering.
+I like training deep neural networks on big GPUs for diverse NLP-tasks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My machine learning endavour started in 2011 when I focused on [biomedical signal processing](https://iopscience.iop.org/article/10.1088/0967-3334/35/8/1551/) during my studies at [TUDresden](https://tu-dresden.de/ing/elektrotechnik/ibmt/forschung/bsv?set_language=en).
+During my Master thesis I applied LSTMs to heart rate variability time series. 
+As processing sequential data is one of the key aspects of natural language processing I ended up in computational linguistics, NLP and Data Science.  
+Working for a search and document centered startup taught me, that to do magic you don't necessarily need fancy deep neural networks.
+But that the actual intelligence lies within the sheer mass of data and the speed that nowadays computers&clusters can cut through it.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm somewhat disenchanted by academia, the machine learning community seems to value the old habit of burying ideas in PDFs more than reproducibility, accessebility and collaboration.
+ 
+<a style="font-size:40px">:snake:</a> 
+I really like [beautiful](https://github.com/psf/black) Python code, though very hard to find. The human-centric idea of Python really appeals to me.
+That you are actually supposed to write code not for the machine but for other people to read. 
+Writing code should be all about sharing ideas that are also machine-interpretable. 
+But unfortunately Python (and probably many other languages too) are way too liberal, 
+non-constricting, unregulated, not providing any guidance and thereby leading people right into (unwilling) obfuscation and technical dept overload. 
+There should be a penalty for using class inheritance and object-oriented programming where it is not really necessary. 
+ 
