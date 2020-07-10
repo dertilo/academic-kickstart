@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Berlin"
   date_start = "2019-02-01"
   date_end = "2020-08-31"
-  description = """research on Dilogue Systems, NLP, Reinforcement Learning"""
+  description = """research on Dialogue Systems, NLP, Reinforcement Learning"""
 
 [[experience]]
   title = "Data Scientist & NLP Specialist"
