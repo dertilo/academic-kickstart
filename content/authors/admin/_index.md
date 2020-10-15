@@ -71,8 +71,6 @@ As processing sequential data is one of the key aspects of natural language proc
 Working for a search and document centered startup taught me, that to do magic you don't necessarily need fancy deep neural networks.
 But that the actual intelligence lies within the sheer mass of data and the speed that nowadays computers&clusters can cut through it.
 
-I'm somewhat disenchanted by academia, the machine learning community seems to value the old habit of burying ideas in PDFs more than reproducibility, accessebility and collaboration.
- 
 <a style="font-size:40px">:snake:</a> 
 I really like [beautiful](https://github.com/psf/black) Python code, though very hard to find. The human-centric idea of Python really appeals to me.
 That you are actually supposed to write code not for the machine but for other people to read. 

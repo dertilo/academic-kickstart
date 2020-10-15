@@ -58,6 +58,11 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "PostgreSQL + SQLAlchemy"
+  
+[[feature]]
+  icon = "cuttlefish"
+  icon_pack = "fab"
+  name = "C++"
 
 
 # Uncomment to use emoji icons.
