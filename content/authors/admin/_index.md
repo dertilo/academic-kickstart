@@ -2,30 +2,35 @@
 # Display name
 title: Tilo Himmelsbach
 
-# Username (this should match the folder name)
-authors:
-- admin
+# Full name (for SEO)
+first_name: Tilo
+last_name: Himmelsbach
+
+# Status emoji
+status:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
+# Role/position/tagline
 role: AI Research Engineer
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
-- name: Technical University of Berlin
-  url: "https://www.tu.berlin/"
+- name: Fraunhofer IAIS
+  url: "https://www.iais.fraunhofer.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Data Science, NLP, Deep Learning, ML-Ops, Python Development
 
+# Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Text Mining
-- Transformers
+- Productionizing ML-Services
+- Text/Audio Mining
+- finetuninig Neural Networks (mostly Transformers)
 
+# Education to show in About widget
 education:
   courses:
   - course: Electrical Engineering (M.Sc.)
@@ -33,9 +38,9 @@ education:
     year: 2016
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -53,13 +58,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: ''
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 Hi, I'm Tilo! I’m a machine learning and NLP specialist stuck somewhere between research and engineering.
